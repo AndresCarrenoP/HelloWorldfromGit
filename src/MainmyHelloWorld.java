@@ -5,6 +5,8 @@ public class MainmyHelloWorld {
         // use git diff --staged to see changes in stage
 
         // just adding a note to see how add works in intelliJ
+
+        // just another experiment git commit from IntelliJ, nothing relevant to code
     }
 
 }
