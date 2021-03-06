@@ -9,6 +9,8 @@ public class MainmyHelloWorld {
         // just another experiment git commit from IntelliJ, nothing relevant to code
 
         // Another experiment
+
+        // Trying a plugin to clear commit message
     }
 
 }
